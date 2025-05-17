@@ -1,2 +1,6 @@
 This is new feature. 
+<<<<<<< HEAD
 This line was modified on the main branch.
+=======
+This line was added on the feature-greeting branch.
+>>>>>>> feature-greeting
